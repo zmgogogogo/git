@@ -7,5 +7,5 @@ hello dev
 hello dev
 hello dev
 hello master
-hello master
+hello dev
 
